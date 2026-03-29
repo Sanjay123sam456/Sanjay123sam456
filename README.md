@@ -1,20 +1,21 @@
 <h1 align="center">Hi, I'm Sanjay Kumar 👋</h1>
-<h3 align="center">AI/ML Developer • Full Stack Engineer • MCA @ BIT Mesra</h3>
+<h3 align="center">AI/ML Engineer • Data Analyst • MCA @ BIT Mesra</h3>
 
 <p align="center">
-  📍 Ranchi, Jharkhand • 📧 sanjay123sam456@gmail.com
+  📍 Noida, Uttar Pradesh &nbsp;•&nbsp; 📧 sanjayworks25@gmail.com &nbsp;•&nbsp; 🔗 <a href="https://linkedin.com/in/sanjay-kumar-ai">LinkedIn</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an AI/ML enthusiast who builds **production-ready intelligent systems** that solve real-world problems. Currently interning at **Qodequay Technologies**, where I develop AI-powered document intelligence tools. I combine strong fundamentals in machine learning with full-stack development to create end-to-end solutions.
+I'm an AI/ML Engineer who builds **production-ready, deployed AI solutions** that solve real business problems. I specialize in **Generative AI, LLM pipelines, RAG systems, and semantic search** — with a strong focus on turning AI capabilities into measurable business impact.
 
-**What I'm working on:**
-- 🤖 Building **Doc-Sage** - an AI document analyzer using LayoutLM, VQA, and Computer Vision
-- 🎯 Completed **GroundTruth AI Hackathon 2025** - built a complete ML pipeline for ad copy optimization
-- 🌐 Creating intelligent web applications with React, FastAPI, and OpenAI APIs
+**What I'm focused on:**
+- 🤖 **3 live deployed AI projects** on Render — NL-to-SQL, RAG chatbot, HR analytics tool
+- 🧠 Building with **LangChain, RAG, FastAPI, Gemini, OpenAI**
+- 📊 Strong in **SQL, Python, Power BI, Excel** for Data Analytics
+- 🔍 Open to **AI Engineer & Data Analyst** roles in Delhi NCR
 
 ---
 
@@ -22,141 +23,111 @@ I'm an AI/ML enthusiast who builds **production-ready intelligent systems** that
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-**AI/ML:** OpenAI API, Hugging Face, TensorFlow, scikit-learn, OpenCV, NLP  
-**Data:** Pandas, NumPy, SQL, Advanced Excel, Matplotlib  
-**Web:** React, FastAPI, Flask, Django, HTML/CSS, JavaScript  
-**Tools:** Git, VS Code, Jupyter Notebook, Streamlit
+**AI & LLM:** OpenAI API, Google Gemini, OpenRouter, Hugging Face, LangChain, LangGraph, RAG, Prompt Engineering, Semantic Search, FAISS
+**ML:** scikit-learn, TensorFlow, sentence-transformers, Anomaly Detection, Cosine Similarity
+**Backend:** Python, FastAPI, Streamlit, REST API, Render, React, Vite, Django
+**Data:** SQL, PostgreSQL, Pandas, NumPy, Power BI, Matplotlib, Seaborn, EDA
+**Tools:** Git, VS Code, Jupyter Notebook, N8N, Claude Code, Cursor, Docker
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 [Doc-Sage - AI Document Intelligence Platform](https://docsage-5t23.onrender.com)
-**Tech:** Python, Django, FastAPI, LayoutLM, VQA, Computer Vision, OpenAI
+### 🤖 [AI Business Analyst — NL-to-SQL Analytics Engine](https://github.com/Sanjay123sam456/ai-business-analyst)
+**Tech:** Python · SQLite · Pandas · Google Gemini · Plotly · scikit-learn · Streamlit · FastAPI
 
-An intelligent PDF analyzer that extracts insights from scanned legal and administrative documents. Upload any PDF and get instant summaries, keyword extraction, smart suggestions, and interactive Q&A capabilities.
+An end-to-end LLM pipeline that converts plain English business queries into executable SQL — enabling non-technical users to query databases without writing code.
 
 **Key Features:**
-- 📄 Smart text extraction from multi-page scanned documents
-- 🤖 AI-powered summarization and keyword extraction
-- 💬 Interactive document Q&A using LLMs
-- 🎯 Context-aware improvement suggestions
-- ⚡ Processes complex unstructured documents with high accuracy
+- 🗣️ Natural language → SQL conversion via LLM
+- 📉 Anomaly detection flagging revenue drops >30% and sales spikes automatically
+- 🔍 AI-powered root cause analysis with actionable recommendations
+- 📊 Real-time Plotly charts + CSV export
 
-**Impact:** Built during AI/ML internship at Qodequay Technologies to solve real document retrieval challenges in legal/administrative workflows.
+**Impact:** Reduced ad-hoc analysis time by ~80%
 
-[🔗 Live Demo](https://docsage-5t23.onrender.com)
+[🔗 Live Demo](https://ai-business-analyst-2-5t2s.onrender.com) | [📂 GitHub](https://github.com/Sanjay123sam456/ai-business-analyst)
 
 ---
 
-### 🎯 [GroundTruth AI Hackathon 2025 - InsightBot](https://github.com/Sanjay123sam456/ground_truth_hacakathon)
-**Tech:** Python, Pandas, OpenAI, Streamlit, WeasyPrint
+### 🎯 [SHL Assessment Recommender — Semantic Search & LLM Reranking](https://github.com/Sanjay123sam456/shl-assessment-recommendation)
+**Tech:** Python · FastAPI · Streamlit · sentence-transformers · Gemini AI · BeautifulSoup · FAISS
 
-Built a complete **automated CSV-to-PDF reporting system** that transforms raw data into executive-ready reports with AI-driven insights in under 30 seconds.
+A two-stage AI pipeline matching job descriptions to the most relevant HR assessments from 377+ SHL entries using semantic search + LLM reranking.
 
-**What I Built:**
-- 📊 End-to-end ML pipeline: data ingestion → AI analysis → PDF generation
-- 🤖 Integrated OpenAI LLM for generating narrative insights and detecting anomalies
-- 📝 Automated report styling with professional formatting
-- 🌐 Streamlit web interface for easy CSV upload and filtering
+**Key Features:**
+- 🔍 Sentence-transformer embeddings for semantic candidate retrieval
+- 🤖 Gemini LLM reranking for precision matching
+- 📋 Scraped and indexed full SHL catalogue using BeautifulSoup
+- ⚡ REST API + Streamlit frontend on Render
 
-**Technical Highlights:**
-- Clean data preprocessing with Pandas
-- TF-IDF + Logistic Regression for CTR prediction
-- Explainable feature inspection (top tokens analysis)
-- Markdown → HTML → PDF pipeline with WeasyPrint
+**Impact:** Reduced HR assessment selection time from hours to under 30 seconds
 
-**Challenge:** Solved ad copy optimization problem under time pressure with reproducible, well-documented code.
+[🔗 Live Demo](https://shl-assessment-recommender-93fe.onrender.com/) | [📂 GitHub](https://github.com/Sanjay123sam456/shl-assessment-recommendation)
 
-[📂 View Project](https://github.com/Sanjay123sam456/ground_truth_hacakathon)
+---
+
+### 🛡️ [GroundAssist-AI — Privacy-Safe RAG Chatbot](https://github.com/Sanjay123sam456/GroundAssist-AI)
+**Tech:** Python · RAG · OpenRouter · Streamlit · Pandas · PII Masking
+
+A production-style RAG pipeline that grounds all LLM responses in real business data — eliminating hallucinations entirely with PII masking and deterministic business logic.
+
+**Key Features:**
+- 🔒 PII masking for privacy-safe, policy-compliant AI responses
+- 🧠 Rule-based intent routing — zero hallucinations
+- 📦 Grounded in structured business data (customers, orders, inventory)
+- 💬 Real-time context-aware support via Streamlit chat
+
+[📂 GitHub](https://github.com/Sanjay123sam456/GroundAssist-AI)
+
+---
+
+### 📊 [AutoReport — Automated Business Insight Generator](https://github.com/Sanjay123sam456/ground_truth_hacakathon)
+**Tech:** Python · Pandas · Google Gemini · WeasyPrint · Streamlit
+
+Automated reporting pipeline generating executive-ready PDF reports with AI insights, trend analysis, and charts in under 30 seconds.
+
+**Key Features:**
+- 📄 Full automation: data ingestion → cleaning → charts → PDF
+- 🤖 AI-powered insights and anomaly detection
+- ⚡ 30-second report generation
+- 📊 Stakeholder-ready format with forecasting indicators
+
+**Impact:** Reduced manual report prep time by 90%
+
+[🔗 Live Demo](https://ground-truth-hacakathon.onrender.com/) | [📂 GitHub](https://github.com/Sanjay123sam456/ground_truth_hacakathon)
 
 ---
 
 ### 🛰️ [AI Location-Based Advertising Platform](https://ads-recommendation.onrender.com)
-**Tech:** React, Vite, FastAPI, Python, OpenAI, Hugging Face, MapView API
+**Tech:** React · Vite · FastAPI · Python · OpenAI · Hugging Face · MapView API
 
 A full-stack intelligent ad delivery system that personalizes advertisements using real-time location data and AI models.
-
-**Features:**
-- 🌍 Real-time location-based ad recommendations
-- 🤖 Dynamic ad generation using OpenAI GPT & Hugging Face LLMs
-- 🗺️ Interactive map visualization with MapView API
-- ⚡ Robust FastAPI backend with async processing
-
-**Technical Approach:**
-- Built RESTful API for ad delivery and user tracking
-- Integrated multiple LLM providers for content generation
-- Implemented JSON data processing and API orchestration
-- Created responsive React frontend with Vite
 
 [🔗 Live Demo](https://ads-recommendation.onrender.com)
 
 ---
 
-### ☁️ [Weather Image Classification System](https://github.com/Sanjay123sam456/Weather-Classification-CNN)
-**Tech:** Python, TensorFlow, OpenCV, scikit-learn
-
-Built a CNN model to classify weather conditions from images with **85% accuracy**.
-
-**Technical Details:**
-- Implemented custom CNN architecture for multi-class classification
-- Used OpenCV for image preprocessing and augmentation
-- Applied Random Forest for feature validation
-- Created data visualization pipeline with Matplotlib
-
-**Skills Demonstrated:** Deep Learning, Computer Vision, Model Optimization, Data Analysis
-
----
-
-### 🛒 [E-commerce Clothing Website](https://clothing-site-ecommerce.vercel.app/)
-**Tech:** React, Vite, HTML/CSS, JavaScript
-
-Developed a responsive e-commerce platform with modern UI/UX design.
-
-**Features:**
-- 🛍️ Dynamic product listings with filtering
-- 🛒 Shopping cart functionality
-- 📱 Fully responsive design
-- ⚡ Fast performance with Vite
-
-[🔗 Live Demo](https://clothing-site-ecommerce.vercel.app/)
-
----
-
-### ⛓️ [Blockchain Voting Application](https://github.com/Sanjay123sam456/React-Voting-App)
-**Tech:** React, Hardhat, Solidity, Ethereum
-
-A decentralized voting application built on blockchain for transparent and tamper-proof elections.
-
-**Technical Stack:**
-- Smart contracts deployed on Ethereum testnet
-- React frontend for user interface
-- Hardhat for local blockchain development
-- Web3.js for blockchain interaction
-
----
-
 ## 💼 Experience
 
-### AI/ML Intern @ Qodequay Technologies Pvt. Ltd.
-**Jan 2025 – Jun 2025 | Pune, India**
+### Python Developer @ Qodequay Technologies Pvt. Ltd.
+**Dec 2024 – Jan 2026 | Pune, India**
 
-- Developing **Doc-Sage**, an AI-powered document retrieval system for legal/administrative documents
-- Implementing LayoutLM, VQA, Computer Vision, and Regex for document understanding
-- Integrating AI pipelines into Django web application
-- Improving accuracy and scalability for multi-page, unstructured documents
-
-**Tech Stack:** Python, Django, FastAPI, AI/ML, NLP, Computer Vision, OpenAI
+- Developed AI-powered document processing pipelines using Python, NLP, and Computer Vision
+- Built **Doc-Sage** — an intelligent document retrieval system for scanned legal and administrative documents using LayoutLM, VQA, and Regex
+- Integrated NLP pipelines into Django web application improving accuracy for multi-page unstructured documents
+- **Tech Stack:** Python, Django, FastAPI, AI/ML, NLP, Computer Vision
 
 ---
 
@@ -165,16 +136,15 @@ A decentralized voting application built on blockchain for transparent and tampe
 
 - Completed certified training in penetration testing and network security
 - Developed problem-solving, analytical thinking, and scripting skills
-- Gained hands-on experience with cybersecurity tools and methodologies
 
 ---
 
 ## 🎓 Education
 
-**Master's in Computer Application (MCA)**  
-Birla Institute of Technology, Mesra | 2023 – 2025 | CGPA: 7.00
+**Master of Computer Applications (MCA)**
+Birla Institute of Technology, Mesra | 2023 – 2025 | CGPA: 7.13
 
-**Bachelor in Computer Application (BCA)**  
+**Bachelor of Computer Applications (BCA)**
 Birla Institute of Technology, Mesra (Off Campus Jaipur) | 2019 – 2022 | CGPA: 7.57
 
 ---
@@ -195,7 +165,10 @@ Birla Institute of Technology, Mesra (Off Campus Jaipur) | 2019 – 2022 | CGPA:
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:sanjay123sam456@gmail.com">
+  <a href="https://linkedin.com/in/sanjay-kumar-ai">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sanjayworks25@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/Sanjay123sam456">
@@ -206,7 +179,7 @@ Birla Institute of Technology, Mesra (Off Campus Jaipur) | 2019 – 2022 | CGPA:
 ---
 
 <p align="center">
-  <i>💡 "Building AI systems that solve real problems, one line of code at a time."</i>
+  <i>💡 "Building AI systems that solve real problems, one deployment at a time."</i>
 </p>
 
 <p align="center">
